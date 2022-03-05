@@ -16,6 +16,7 @@
 		4239883827D22FAD003BE9FD /* OthelloTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4239883727D22FAD003BE9FD /* OthelloTests.swift */; };
 		4239884227D22FAD003BE9FD /* OthelloUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4239884127D22FAD003BE9FD /* OthelloUITests.swift */; };
 		4239884427D22FAD003BE9FD /* OthelloUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4239884327D22FAD003BE9FD /* OthelloUITestsLaunchTests.swift */; };
+		4239885127D230E1003BE9FD /* Othello.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4239885027D230E1003BE9FD /* Othello.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4239883D27D22FAD003BE9FD /* OthelloUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OthelloUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4239884127D22FAD003BE9FD /* OthelloUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OthelloUITests.swift; sourceTree = "<group>"; };
 		4239884327D22FAD003BE9FD /* OthelloUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OthelloUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4239885027D230E1003BE9FD /* Othello.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Othello.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				4239882027D22FAB003BE9FD /* AppDelegate.swift */,
 				4239882227D22FAB003BE9FD /* SceneDelegate.swift */,
 				4239882427D22FAB003BE9FD /* ViewController.swift */,
+				4239885027D230E1003BE9FD /* Othello.swift */,
 				4239882627D22FAB003BE9FD /* Main.storyboard */,
 				4239882927D22FAD003BE9FD /* Assets.xcassets */,
 				4239882B27D22FAD003BE9FD /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				4239882527D22FAB003BE9FD /* ViewController.swift in Sources */,
 				4239882127D22FAB003BE9FD /* AppDelegate.swift in Sources */,
 				4239882327D22FAB003BE9FD /* SceneDelegate.swift in Sources */,
+				4239885127D230E1003BE9FD /* Othello.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
